@@ -1,4 +1,4 @@
-#Información
+## Información
 Laboratorio básico de GIT y GITHUB
 Realizado por Brian Santiago Cruz Garcia
 Profesión: Tecnologo en Desarrollo De Software
